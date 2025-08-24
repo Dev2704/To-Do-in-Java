@@ -70,19 +70,6 @@ java src/Main
 
 ---
 
-## 📸 Screenshots (Optional)
-
-> Add some terminal screenshots here for better presentation. Example:
-```
-1. Add Task
-2. View Tasks
-3. Mark as Done
-4. Delete Task
-5. Exit
-```
-
----
-
 ## 🤝 Contributing
 
 1. Fork the repo 🍴  
